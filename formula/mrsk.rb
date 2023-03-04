@@ -45,7 +45,8 @@ class Mrsk < Formula
 
       To install 'mrsk', run the following command:
 
-        $ brew install mrsked/mrsk
+        $ brew tap mrsked/tap
+        $ brew install mrsk
 
       Once installed, you can create a configuration file using the 'mrsk init' command:
 
