@@ -13,6 +13,11 @@ brew install mrsk
 
 This will install the latest version of [MRSK](https://github.com/mrsked/mrsk).
 
+### Upgrade
+```console
+brew update && brew upgrade mrsk
+```
+
 ## Usage
 
 Once installed, you can run the `mrsk` command to use the tool. For example, to check the version of `mrsk`, run:
